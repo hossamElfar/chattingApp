@@ -1,7 +1,7 @@
 
 # A Simple chatting app
 
-A simple chat demo for socket.io
+A simple chat app using nodejs and socket.io library
 
 ## How to use
 
