@@ -1,12 +1,11 @@
 {
-  "name": "socket.io-chat",
+  "name": "chatting app",
   "version": "0.0.0",
-  "description": "A simple chat client using socket.io",
+  "description": "A simple chatting app",
   "main": "index.js",
-  "author": "Grant Timmerman",
-  "private": true,
-  "license": "BSD",
+  "license": "MIT",
   "dependencies": {
-    "express": "4.13.4"
+    "express": "4.13.4",
+    "socket.io":"*"
   }
 }
